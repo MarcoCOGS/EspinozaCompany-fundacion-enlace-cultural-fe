@@ -1,4 +1,5 @@
 # EspinozaCompany-fundacion-enlace-cultural-fe
+## Proyecto privado
 https://observatoriocauce.cl/
 
 Posición: Frontend Developer
