@@ -1,4 +1,4 @@
-# Proyecto privado EspinozaCompany-fundacion-enlace-cultural-fe
+# Proyecto privado: EspinozaCompany-fundacion-enlace-cultural-fe
 ## Proyecto privado : https://observatoriocauce.cl/
 Proyecto privado : https://observatoriocauce.cl/
 
